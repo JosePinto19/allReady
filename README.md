@@ -3,6 +3,7 @@
 ![allReady project banner](./docs/media/all-ready-project-banner.jpg)
 
 # Welcome to allReady
+# This is a test to understand better how git works
 
 This repo contains the code for **allReady**, an open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities.
 
